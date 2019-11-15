@@ -1,0 +1,2 @@
+# Digit_Recognizer
+Recognizing digits using Random_forest_classifier
